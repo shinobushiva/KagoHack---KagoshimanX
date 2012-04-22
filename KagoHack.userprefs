@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js">
+    <Files>
+      <File FileName="Assets/Scripts/BoxHit.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/PlayerStatus.cs" Line="39" Column="4" />
+      <File FileName="Assets/Scripts/Kinfe.cs" Line="20" Column="38" />
+      <File FileName="Assets/Scripts/EnemyMove.cs" Line="50" Column="52" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="59" Column="14" />
+      <File FileName="Assets/Scripts/GameStarter.cs" Line="18" Column="35" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" Line="15" Column="110" />
+      <File FileName="Assets/Scripts/BossDead.cs" Line="37" Column="3" />
+      <File FileName="Assets/Scripts/SpartanSprite.cs" Line="49" Column="112" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="99" Column="61" />
+      <File FileName="Assets/Scripts/EnemyStatus.cs" Line="48" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
